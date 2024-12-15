@@ -1,0 +1,11 @@
+product_name,quantity,unit_price,category
+Tablet,20,350.0,Electronics
+Smartwatch,25,200.0,Electronics
+Bluetooth Speaker,18,30.0,Electronics
+Sunglasses,10,25.0,Accessories
+Office Chair,5,120.0,Furniture
+TV,8,400.0,Electronics
+Toaster,12,30.0,Home Appliances
+Microwave,6,120.0,Home Appliances
+Winter Coat,15,120.0,Clothing
+Sports Jacket,9,90.0,Clothing
